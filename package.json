@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "smak1-230214",
+  "description": "Lorem ipsum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moseskarunia/smak1-230214.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moseskarunia/smak1-230214/issues"
+  },
+  "homepage": "https://github.com/moseskarunia/smak1-230214#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
